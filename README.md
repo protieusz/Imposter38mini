@@ -8,7 +8,7 @@ Preview
 ![IMG_1504](https://github.com/protieusz/Imposter38mini/assets/118025702/5a921575-96c4-4707-b65b-2b3ef9bea2d1)
 ![IMG_1505](https://github.com/protieusz/Imposter38mini/assets/118025702/7eec5754-d0d7-47b6-bb81-990bc4898412)
 
-Printed case from PLANT 
+Printed case from PLANT (webpage coming soon)
 
 ![Image 11](https://github.com/protieusz/Imposter38mini/assets/118025702/3725e98a-939e-4752-af74-eb708763f774)
 ![Image 10](https://github.com/protieusz/Imposter38mini/assets/118025702/eb0eef3b-df9e-4756-971c-00e4ca22d04b)
