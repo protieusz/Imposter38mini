@@ -54,10 +54,10 @@
 
 /* RGB LED */
 //#define WS2812_PIO_USE_PIO1
-#define WS2812_DI_PIN GP29
+#define WS2812_DI_PIN GP0
 
 #ifdef RGBLIGHT_ENABLE
-    #define RGBLIGHT_LED_COUNT 13
+    #define RGBLIGHT_LED_COUNT 6
     #define RGBLIGHT_LIMIT_VAL 80
     #define RGBLIGHT_HUE_STEP 10
     #define RGBLIGHT_SAT_STEP 17
