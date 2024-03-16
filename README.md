@@ -50,8 +50,6 @@ PCB Render
 
 Reverse Engineering Phase
 
-![Screenshot 2024-03-04 at 4 02 59 PM](https://github.com/protieusz/Imposter38mini/assets/118025702/96b32d4e-91bb-4b27-a279-4417c96e93a4)
-![Screenshot 2024-03-04 at 4 02 27 PM](https://github.com/protieusz/Imposter38mini/assets/118025702/381d1ba1-3277-4cd7-aa7e-d6866fa5299e)
 ![Screenshot 2024-03-04 at 4 03 14 PM](https://github.com/protieusz/Imposter38mini/assets/118025702/46a6203b-fc5e-499e-917c-4c735be6ba83)
 ![Screenshot 2024-03-01 at 8 41 30 PM](https://github.com/protieusz/Imposter38mini/assets/118025702/0787d0b8-2f89-4669-8511-fa1c1945c74e)
 ![Screenshot 2024-03-02 at 10 23 59 AM](https://github.com/protieusz/Imposter38mini/assets/118025702/528ff42b-d617-4e32-bb98-cdb88ed53390)
